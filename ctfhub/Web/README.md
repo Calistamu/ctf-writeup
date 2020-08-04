@@ -11,10 +11,26 @@
 ![](images/httprequest-flag.png)
 #### 302跳转
 ##### 题目
+![](images/http302.png)
 ##### 题解
+* 分析：  
+网页打开  
+![](images/http302-1.png)  
+![](images/http302-2.png)  
+使用bp抓包，找到目标包然后send into repeater  
+![](images/http302-3.png) 
+
+GO以后结果如下
+![](images/http302-flag.png)
 #### Cookie
 ##### 题目
+![](images/httpcookie.png)
 ##### 题解
+* 由于Bp一直没能抓到正确的包，抓到的包都没有cookie这一栏  
+![](images/httocookie-1.png)
+
+使用curl  
+![](images/httocookie-flag.png)
 #### 基础认证
 ##### 题目
 ##### 题解
