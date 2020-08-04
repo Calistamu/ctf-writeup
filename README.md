@@ -32,6 +32,7 @@ mkdocs serve
 ```
 ### [黑吧闯关之古墓密探](http://hkyx.myhack58.com/)
 - []已通关
+>wp目录：myhack58
 ### [黑客丛林之旅](http://www.fj543.com/hack/)
 - [] 已通关
 ### [hack-test.com](http://www.hack-test.com/index.htm)
