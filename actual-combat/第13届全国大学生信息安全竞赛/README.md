@@ -4,6 +4,7 @@
 ### bd
 #### 题目
 ![](images/bd.png)
+>附件：bd-原有task.py,bd.txt是复制.py中的数据
 #### 题解
 ```
 （Win10）
